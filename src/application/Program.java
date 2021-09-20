@@ -6,6 +6,7 @@ public class Program {
 
 		System.out.println("TEST COMMIT_01");
 		System.out.println("TEST COMMIT_02");
+		System.out.println("TEST COMMIT_03");
 
 	}
 
